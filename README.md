@@ -1,3 +1,3 @@
 # Demonstration
 
-Learning github demonstration
+Teaching Github and Git commands demonstration
