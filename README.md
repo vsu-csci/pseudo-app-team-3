@@ -21,7 +21,7 @@ git commit -m "message"<br>
 git checkout -b "branchname" (to create a new branch)<br>
 git checkout branchname (to switch between branches)<br>
 git merge<br>
-*refer to your Git Cheat Sheet 
+<i>refer to your Git Cheat Sheet<i> 
 
 
 
