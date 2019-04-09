@@ -1,4 +1,4 @@
-# Demonstration
+# VSU Github Workshop
 
 ## Teaching Github and Git commands demonstration via Github Classroom.
 
