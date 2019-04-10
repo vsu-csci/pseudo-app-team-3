@@ -10,9 +10,22 @@ For this workshop please read this document: a README file serves as the startin
 ## Workshop Task
 In this workshop you will create your own Pseudo App or Project idea. Be creative in your teams you can create any idea you'd like. 
 
-Take 5 minutes to come up with an 'idea' in your teams. Your project will consist of a repository that contains: a README.md file, and at least 2 source code files. 
+Take 5 minutes to come up with an 'idea' in your teams. Your project will consist of a repository that contains: a README.md file, an index.html file, and your own pseudo source 'code' file.
 
 You will utilize git commands to collaborate and understand version control in your teams. 
+
+### Step 1
+
+After visiting Github classrooms, clone the repository to your own local machine.
+git clone 'url'
+
+## Step 2
+
+On your own machine pair program to change the code in the index html. You should change the tag in h1 with your own title and the image in the img tag with your own image url representing your idea
+
+## Step 3 
+
+Add these changes, commit and push back to the repo!
 
 **The commands that you will use are at least:**
 
